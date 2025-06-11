@@ -1,3 +1,4 @@
+is this good:
 {
   "name": "IDKSource",
   "identifier": "com.idksource.source",
@@ -18,7 +19,7 @@
           "version": "1.0",
           "date": "2024-06-10T00:00:00-00:00",
           "localizedDescription": "Initial release of Scarlet.",
-          "downloadURL": "https://archive.org/download/scarlet-alpha.ipa/ScarletAlpha.ipa.zip",
+          "downloadURL": "https://github.com/naturelessGit/idksource/raw/refs/heads/main/files/ScarletAlpha.ipa",
           "size": 25000000,
           "minOSVersion": "13.0"
         }
