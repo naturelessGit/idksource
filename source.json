@@ -1,7 +1,11 @@
-
 {
   "name": "IDKSource",
   "identifier": "com.idksource.source",
+  "subtitle": "IPA library",
+  "description": "IDKSource is an .ipa library",
+  "iconURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.lrkfCMOBIreoENsesW4_9AHaIJ%3Fpid%3DApi&f=1&ipt=ef525e685d4eed8faeff2f9b6af0303eed9453957759008018e3a2e3dbd85cfb&ipo=images",
+  "headerURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fshotkit.com%2Fwp-content%2Fuploads%2F2023%2F03%2Fadd_app_homescreen_ilgmyzin.jpg&f=1&nofb=1&ipt=6afb32a8eb2b99c7983d096723868d20aed5a1615679c4f79747596f36be2755",
+  "website": "https://github.com/naturelessGit/idksource/",
   "apps": [
     {
       "name": "Scarlet",
