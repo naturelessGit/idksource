@@ -1,0 +1,28 @@
+{
+  "name": "IDKSource",
+  "identifier": "com.idksource.source",
+  "apps": [
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.Scarlet",
+      "developerName": "Scarlet",
+      "localizedDescription": "Scarlet iOS is a third-party app store that allows iPhone and iPad users to download apps and games not available on the official App Store. It provides a user-friendly interface and supports various iOS versions, enabling access to a wide range of IPA files.",
+      "iconURL": "https://usescarlet.com/icon.png",
+      "tintColor": "#F22F15",
+      "screenshotURLs": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fshanghaiist.com%2Fwp-content%2Fuploads%2F2023%2F06%2FScreenshot-2023-06-30-at-7.36.06-PM.png&f=1&nofb=1&ipt=73320b20902c5d14b73dc642066658970a7923bd2950a8bc958ba80a7c2c0069",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fusescarletapp.com%2Fwp-content%2Fuploads%2F2023%2F06%2FScreenshot-2023-06-05-at-9.51.11-PM-475x1024.png&f=1&nofb=1&ipt=0b91807f4805c49a4cce88d568febb113955beac2cc8b01706c89cd4eb89d493"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-06-10T00:00:00-00:00",
+          "localizedDescription": "Initial release of Scarlet.",
+          "downloadURL": "https://archive.org/download/scarlet-alpha.ipa/ScarletAlpha.ipa.zip",
+          "size": 25000000,
+          "minOSVersion": "13.0"
+        }
+      ]
+    }
+  ]
+}
