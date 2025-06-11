@@ -21,11 +21,33 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2024-06-10T00:00:00-00:00",
+          "date": "2024-06-10",
           "localizedDescription": "Initial release of Scarlet.",
           "downloadURL": "https://github.com/naturelessGit/idksource/raw/refs/heads/main/files/ScarletAlpha.ipa",
           "size": 25000000,
           "minOSVersion": "13.0"
+        }
+      ]
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "localizedDescription": "Dopamine is a jailbreak for iOS 15.0 - 16.6.1 that supports arm64 (A9 - A11) and arm64e (A12 - A16, M1 - M2) devices. It comes with Sileo and Zebra package managers and is open source.",
+      "iconURL": "https://dopamine.dhinak.net/assets/icon.png",
+      "tintColor": "#081A1E",
+      "screenshotURLs": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmblogthumb-phinf.pstatic.net%2FMjAyMzA2MDZfMTEx%2FMDAxNjg1OTgxNDY3OTI0.dcdVFsZrOkZVqjK3JcdBS_8cJWRZALVQsdVifjXGATkg.neRNkqCk2qw7kjkx_Kf2ZbxfP56M0_x1LqNTpemtFdog.PNG.sauce2011%2FKakaoTalk_20230605_234127079_03.png%3Ftype%3Dw400&f=1&nofb=1&ipt=11405f0d6aacdaa67c887a5c07a9e2a12e8105eb45c4dc0ef2bd7fc9ba59a64f",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finews.gtimg.com%2Fom_bt%2FOm7iYnVYrXtZpQg8w2IwPWZFcRGJcOgUIfL1tdDYUJr4IAA%2F641&f=1&nofb=1&ipt=2e6013665ad3a0371f5ce8f377e5bc2e02adcf5f822409b1350236a4fda276ba"
+      ],
+      "versions": [
+        {
+          "version": "2.4.5",
+          "date": "2025-11-06",
+          "localizedDescription": "Latest release of Dopamine. Downgradable, older versions coming soon.",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.5/Dopamine.ipa",
+          "size": 53256909,
+          "minOSVersion": "15.0"
         }
       ]
     }
