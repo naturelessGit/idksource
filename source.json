@@ -21,7 +21,7 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2024-06-10",
+          "date": "2025-06-10T00:00:00Z",
           "localizedDescription": "Initial release of Scarlet.",
           "downloadURL": "https://github.com/naturelessGit/idksource/raw/refs/heads/main/files/ScarletAlpha.ipa",
           "size": 25000000,
@@ -43,13 +43,34 @@
       "versions": [
         {
           "version": "2.4.5",
-          "date": "2025-06-11",
+          "date": "2025-06-10T00:00:00Z",
           "localizedDescription": "Latest release of Dopamine. Downgradable, older versions coming soon.",
           "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.5/Dopamine.ipa",
           "size": 53256909,
           "minOSVersion": "15.0"
         }
       ]
+    },
+    {
+		"name": "Filza File Manager",
+		"bundleIdentifier": "com.tigisoftware.Filza",
+		"developerName": "Tigi Software",
+		"localizedDescription": "Filza is a powerful file manager for iPhone, iPad, iPod Touch that supports various file types, cloud services, terminal, music library, and more. Download Filza from BigBoss Repo or TIGI Software Repo and see the version history and user guide.",
+		"iconURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zK6VS7XZMhBUV6lp3-o4sgAAAA%26pid%3DApi&f=1&ipt=79ec4ad7fcd7122ee545bed759236115c8edc1547d92eec9e49938429f996973&ipo=images",
+		"tintColor": "#1390DD",
+		"screenshotURLs": [
+			"https://www.tigisoftware.com/default/wp-content/uploads/2015/07/IMG_0878-copy-1024x606.png"
+		],
+		"versions": [
+			{
+				"version": "4.0",
+				"date": "2025-06-10T00:00:00Z",
+				"localizedDescription": "Filza is a powerful file manager for iPhone, iPad, iPod Touch that supports various file types, cloud services, terminal, music library, and more. Download Filza from BigBoss Repo or TIGI Software Repo and see the version history and user guide.",
+				"downloadURL": "https://github.com/appleku/ipa/raw/refs/heads/main/Filza_4.0_FULL_16.1.2.ipa",
+				"size":  9000000,
+				"minOSVersion": "13.0"
+			}
+		]
     }
   ]
 }
